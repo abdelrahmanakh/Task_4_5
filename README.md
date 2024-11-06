@@ -1,4 +1,3 @@
-=============================================================================
 This is A Vole Machine Program
 =============================================================================
 To use this program You must have the knowledge about the Machine code.
