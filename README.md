@@ -6,7 +6,7 @@ O: is the operator number
 R: is the register
 small x indicates any hex character.
 for the list of instructions find instructions.png.
-=============================================================================
+
 In our program you can write your code in the upper-right input space
 Where you can only write 4 Hexadecimal characters and then hit enter
 to store the instruction and write another one.
@@ -39,4 +39,3 @@ which is 00
 Then upload to allow user to upload instruction files.
 
 instruction file must be written as command per line each command 4 char.
-=============================================================================
